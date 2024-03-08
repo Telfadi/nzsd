@@ -1,0 +1,78 @@
+a:hover {
+	color:#7FFF00;
+}
+
+.flexbox {
+	margin: 0 auto;
+  	width: 80%;
+}
+
+.card {
+  display: inline-block;
+  width: 450px;
+  padding: 2em;
+}
+
+
+.header {
+  padding: 50px;
+  border-bottom: 1px solid gray;
+  text-align: center;
+}
+
+span {
+	font-weight: bold;
+	color: #DC143C
+}
+
+.link {
+	padding-top: : 50px;
+	padding-bottom: 50px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+.footer {
+	
+	border-top: 1px solid gray;
+	padding-right: 0;
+	padding-top: 20px;
+	text-align: center;
+}
+
+
+p {
+	display: inline;
+}
+
+body {
+    font-family: Mulish, sans-serif;
+}
+
+h1 {
+	font-family: Average, serif;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 50,
+  'wght' 50,
+  'GRAD' 50,
+  'opsz' NaN
+}
+
+img {
+  border: 1px solid gray;
+}
+
+.contacts-item {
+	padding-left: 2em;
+}
